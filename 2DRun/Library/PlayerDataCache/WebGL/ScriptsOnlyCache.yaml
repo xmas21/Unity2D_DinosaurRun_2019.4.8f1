@@ -77,33 +77,33 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 588}
+      Script: {instanceID: 580}
     - Class: 114
-      Script: {instanceID: 11172}
+      Script: {instanceID: 11266}
     - Class: 114
-      Script: {instanceID: 11358}
+      Script: {instanceID: 11452}
     - Class: 114
-      Script: {instanceID: 11436}
+      Script: {instanceID: 11530}
     - Class: 114
-      Script: {instanceID: 11464}
+      Script: {instanceID: 11558}
     - Class: 114
-      Script: {instanceID: 11518}
+      Script: {instanceID: 11612}
     - Class: 114
-      Script: {instanceID: 11968}
+      Script: {instanceID: 12062}
     - Class: 114
-      Script: {instanceID: 12180}
+      Script: {instanceID: 12274}
     - Class: 114
-      Script: {instanceID: 12636}
+      Script: {instanceID: 12730}
     - Class: 114
-      Script: {instanceID: 12880}
+      Script: {instanceID: 12974}
     - Class: 114
-      Script: {instanceID: 13462}
+      Script: {instanceID: 13556}
     - Class: 114
-      Script: {instanceID: 13640}
+      Script: {instanceID: 13738}
     - Class: 114
-      Script: {instanceID: 13848}
+      Script: {instanceID: 13946}
     - Class: 114
-      Script: {instanceID: 14252}
+      Script: {instanceID: 14350}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -166,23 +166,23 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11172}
+      Script: {instanceID: 11266}
     - Class: 114
-      Script: {instanceID: 11464}
+      Script: {instanceID: 11558}
     - Class: 114
-      Script: {instanceID: 11518}
+      Script: {instanceID: 11612}
     - Class: 114
-      Script: {instanceID: 12060}
+      Script: {instanceID: 12154}
     - Class: 114
-      Script: {instanceID: 12180}
+      Script: {instanceID: 12274}
     - Class: 114
-      Script: {instanceID: 12636}
+      Script: {instanceID: 12730}
     - Class: 114
-      Script: {instanceID: 12880}
+      Script: {instanceID: 12974}
     - Class: 114
-      Script: {instanceID: 13640}
+      Script: {instanceID: 13738}
     - Class: 114
-      Script: {instanceID: 14252}
+      Script: {instanceID: 14350}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -300,7 +300,7 @@ ScriptsOnlyBuild:
     className: TestResultRendererCallback
   - hash:
       serializedVersion: 2
-      Hash: 896f4ddc5cbd3f6fa8a70c332cddb47a
+      Hash: 1d845b2535654b2525956159b2714d86
     assemblyName: Unity.2D.SpriteShape.Runtime.dll
     namespaceName: UnityEngine.U2D
     className: SpriteShapeController
@@ -316,6 +316,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 523ce309f50d9eee6a8fc0e2f86c9c97
+    assemblyName: Unity.2D.SpriteShape.Runtime.dll
+    namespaceName: 
+    className: SpriteShapeGeometryCache
   - hash:
       serializedVersion: 2
       Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
@@ -728,4 +734,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - "Assets/\u5834\u666F/\u9078\u55AE.unity"
   - "Assets/\u5834\u666F/\u904A\u6232\u5834\u666F.unity"
-  playerPath: C:/Users/USER/Desktop/unity_2020_0606/Web3
+  playerPath: D:/Unity2D_Run/WebGL
